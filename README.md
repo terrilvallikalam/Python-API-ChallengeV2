@@ -1,5 +1,5 @@
 # Python-API-ChallengeV2
-Python API Challenge - Week 7
+Python API Challenge - Week 6
 
 Python API Homework - What's the Weather Like?
 
